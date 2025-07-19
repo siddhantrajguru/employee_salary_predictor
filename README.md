@@ -1,7 +1,4 @@
 
----
-
-```markdown```
 # 💼 Employee Salary Predictor
 
 Welcome to the **Employee Salary Predictor** — a Streamlit-powered web app that estimates an employee's annual salary based on several key factors like age, gender, education, job title, and experience.
@@ -46,7 +43,7 @@ Welcome to the **Employee Salary Predictor** — a Streamlit-powered web app tha
 
 ````
 
----
+
 
 ## 🚀 How to Run Locally
 
@@ -54,7 +51,7 @@ Welcome to the **Employee Salary Predictor** — a Streamlit-powered web app tha
    ```bash
    git clone https://github.com/siddhantrajguru/employee_salary_predictor.git
    cd employee_salary_predictor
-````
+
 
 2. 🧱 Create and activate a virtual environment:
 
@@ -75,7 +72,6 @@ Welcome to the **Employee Salary Predictor** — a Streamlit-powered web app tha
    streamlit run app.py
    ```
 
----
 
 ## 📊 Sample Prediction
 
@@ -98,13 +94,7 @@ Welcome to the **Employee Salary Predictor** — a Streamlit-powered web app tha
 * 🛠 Built with [Streamlit](https://streamlit.io)
 * 📈 Model trained with `scikit-learn`
 
----
 
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
----
 
 
 
