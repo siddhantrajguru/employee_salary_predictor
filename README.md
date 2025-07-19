@@ -1,15 +1,14 @@
-Here’s a professional, engaging, and emoji-enhanced `README.md` file for your **Employee Salary Predictor** project:
 
 ---
 
-```markdown
+```markdown```
 # 💼 Employee Salary Predictor
 
 Welcome to the **Employee Salary Predictor** — a Streamlit-powered web app that estimates an employee's annual salary based on several key factors like age, gender, education, job title, and experience.
 
 🔗 **Live Demo**: [Try the App](https://employe-salary-prediction.streamlit.app/)
 
----
+
 
 ## 📌 Features
 
