@@ -51,7 +51,7 @@ Welcome to the **Employee Salary Predictor** — a Streamlit-powered web app tha
    ```bash
    git clone https://github.com/siddhantrajguru/employee_salary_predictor.git
    cd employee_salary_predictor
-
+   ```
 
 2. 🧱 Create and activate a virtual environment:
 
