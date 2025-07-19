@@ -3,7 +3,7 @@
 
 Welcome to the **Employee Salary Predictor** — a Streamlit-powered web app that estimates an employee's annual salary based on several key factors like age, gender, education, job title, and experience.
 
-🔗 **Live Demo**: [**Live Demo**](https://employe-salary-prediction.streamlit.app/)
+🔗[**Live Demo**](https://employe-salary-prediction.streamlit.app/)
 
 
 
