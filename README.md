@@ -89,17 +89,6 @@ Welcome to the **Employee Salary Predictor** — a Streamlit-powered web app tha
 
 🔮 **Predicted Salary**: \$85,000 (USD) / ₹7,05,500 (INR)
 
----
-
-## 📸 Screenshot
-
-![App Screenshot](evaluation_plot.png)
-
----
-
-## 📃 License
-
-MIT © 2025 – [Siddhantraj Guru](https://github.com/siddhantrajguru)
 
 ---
 
@@ -117,8 +106,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-```
 
-Would you like me to save this as a `README.md` file for direct use in your GitHub repo?
-```
 
