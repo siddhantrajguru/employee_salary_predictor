@@ -90,7 +90,7 @@ Welcome to the **Employee Salary Predictor** — a Streamlit-powered web app tha
 
 ## Screenshot
 
-(![Screenshot](https://github.com/user-attachments/assets/1d994aea-d42a-4d27-98b3-c1e00bea93e3)
+[Screenshot](https://github.com/user-attachments/assets/1d994aea-d42a-4d27-98b3-c1e00bea93e3)
 
 
 
