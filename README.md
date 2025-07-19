@@ -88,6 +88,12 @@ Welcome to the **Employee Salary Predictor** — a Streamlit-powered web app tha
 
 ---
 
+## Screenshot
+
+
+
+
+
 ## 🙌 Acknowledgements
 
 * 💻 Inspired by Kaggle datasets & ML tutorials
